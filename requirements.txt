@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 ipykernel
 fg-data-profiling
+xgboost
